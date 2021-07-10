@@ -306,3 +306,7 @@ i.fa-star {
 .btn__hybrid {
     background-color: #fc7654;
 }
+
+button {
+    cursor: pointer;
+}
